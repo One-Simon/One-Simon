@@ -1,4 +1,4 @@
-name: Top Languages
+name: GitStats
 
 on:
   schedule:
@@ -9,26 +9,33 @@ on:
       - main
 
 jobs:
-  generate:
+  languages:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate top languages card
+      - name: Generate most used languages
         uses: One-Simon/GitStats@main
         with:
           token: ${{ secrets.README_STATS_TOKEN }}
           username: One-Simon
-          output: profile/languages.svg
-          max-languages: 10
-          hide-languages: HTML,CSS
+          output: profile/languages-most-used.svg
+          config-name: most-used
 
-      - name: Commit generated card
+      - name: Generate recent languages
+        uses: One-Simon/GitStats@main
+        with:
+          token: ${{ secrets.README_STATS_TOKEN }}
+          username: One-Simon
+          output: profile/languages-recent.svg
+          config-name: recent
+
+      - name: Commit generated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/languages.svg
-          git commit -m "Update language card" || exit 0
+          git add profile/languages-most-used.svg profile/languages-recent.svg
+          git commit -m "Update language stats" || exit 0
           git push
