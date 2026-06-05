@@ -17,13 +17,13 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate top languages card
-        env:
-          README_STATS_TOKEN: ${{ secrets.README_STATS_TOKEN }}
-          GITHUB_USERNAME: One-Simon
-          OUTPUT: profile/languages.svg
-          MAX_LANGUAGES: "10"
-          HIDE_LANGUAGES: HTML,CSS
-        run: node scripts/generate-top-langs.mjs
+        uses: One-Simon/GitStats@main
+        with:
+          token: ${{ secrets.README_STATS_TOKEN }}
+          username: One-Simon
+          output: profile/languages.svg
+          max-languages: 10
+          hide-languages: HTML,CSS
 
       - name: Commit generated card
         run: |
