@@ -6,7 +6,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 <!-- gitstats:config most-used
 style: normal
-grouping: true
+grouping: false
+max-languages: 3
 timeframe: all-time
 gitstats:config -->
 
