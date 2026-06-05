@@ -20,25 +20,20 @@
   <text x="18" y="30" class="title">Recent Languages</text>
   <text x="502" y="30" text-anchor="end" class="meta">last 8 weeks</text>
   <g>
-    <path d="M 29 54 H 327.25509353403606 L 327.25509353403606 54 V 76 L 327.25509353403606 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
-    <path d="M 327.25509353403606 54 H 404.25746986731485 L 404.25746986731485 54 V 76 L 404.25746986731485 76 H 327.25509353403606 L 327.25509353403606 76 V 54 L 327.25509353403606 54 Z" fill="#3178c6" />
-    <path d="M 404.25746986731485 54 H 453.66238926676476 L 453.66238926676476 54 V 76 L 453.66238926676476 76 H 404.25746986731485 L 404.25746986731485 76 V 54 L 404.25746986731485 54 Z" fill="hsl(104 62% 48%)" />
-    <path d="M 453.66238926676476 54 H 454.8311946333824 Q 455.99999999999994 54 455.99999999999994 55.16880536661758 V 74.83119463338242 Q 455.99999999999994 76 454.8311946333824 76 H 453.66238926676476 L 453.66238926676476 76 V 54 L 453.66238926676476 54 Z" fill="#8b949e" />
+    <path d="M 29 54 H 366.5729432255609 L 366.5729432255609 54 V 76 L 366.5729432255609 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
+    <path d="M 366.5729432255609 54 H 453.3651918094931 L 453.3651918094931 54 V 76 L 453.3651918094931 76 H 366.5729432255609 L 366.5729432255609 76 V 54 L 366.5729432255609 54 Z" fill="#3178c6" />
+    <path d="M 453.3651918094931 54 H 454.68259590474656 Q 456 54 456 55.31740409525343 V 74.68259590474658 Q 456 76 454.68259590474656 76 H 453.3651918094931 L 453.3651918094931 76 V 54 L 453.3651918094931 54 Z" fill="#8b949e" />
   </g>
   <g transform="translate(502 57)">
     <text x="0" y="0" text-anchor="end" class="other-name">Other</text>
-    <text x="0" y="18" text-anchor="end" class="other-value">0.5%</text>
+    <text x="0" y="18" text-anchor="end" class="other-value">0.6%</text>
   </g>
-  <g transform="translate(172.63 98)">
+  <g transform="translate(192.29 98)">
       <text x="0" y="0" text-anchor="middle" class="name">JavaScript</text>
-      <text x="0" y="18" text-anchor="middle" class="value">70.6%</text>
+      <text x="0" y="18" text-anchor="middle" class="value">79.6%</text>
     </g>
-    <g transform="translate(365.76 98)">
+    <g transform="translate(409.97 98)">
       <text x="0" y="0" text-anchor="middle" class="name">TypeScript</text>
-      <text x="0" y="18" text-anchor="middle" class="value">17.6%</text>
-    </g>
-    <g transform="translate(428.96 98)">
-      <text x="0" y="0" text-anchor="middle" class="name">JSON</text>
-      <text x="0" y="18" text-anchor="middle" class="value">11.3%</text>
+      <text x="0" y="18" text-anchor="middle" class="value">19.8%</text>
     </g>
 </svg>
