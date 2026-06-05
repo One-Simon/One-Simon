@@ -27,9 +27,6 @@ Currently focused on turning useful internal tools into polished public projects
 
 ## GitHub Metrics
 
-##<p align="center">
-  ##<img src="/github-metrics.svg" alt="GitHub metrics for One-Simon" width="100%">
-##</p>
 
 ## Connect
 
