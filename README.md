@@ -6,11 +6,13 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 <!-- gitstats:config most-used
 style: normal
+grouping: true
 timeframe: all-time
 gitstats:config -->
 
 <!-- gitstats:config recent
 style: compact
+grouping: true
 timeframe: 8
 gitstats:config -->
 
