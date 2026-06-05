@@ -27,20 +27,11 @@ Currently focused on turning useful internal tools into polished public projects
 
 ## GitHub Metrics
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub metrics for One-Simon" width="100%">
-</p>
+##<p align="center">
+  ##<img src="/github-metrics.svg" alt="GitHub metrics for One-Simon" width="100%">
+##</p>
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/One-Simon)
 [![Email](https://img.shields.io/badge/-Email-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:simon.federmann@gmail.com)
 
----
-
-<details>
-<summary>Profile repository notes</summary>
-
-This repository powers the GitHub profile README for `One-Simon`. The metrics image is generated automatically by GitHub Actions using `lowlighter/metrics` once the required `METRICS_TOKEN` repository secret is configured.
-
-</details>
