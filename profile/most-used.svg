@@ -1,0 +1,48 @@
+<svg width="520" height="190" viewBox="0 0 520 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Language usage by GitHub language byte counts across repositories available to the token.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .card-bg { fill: #f6f8fa; stroke: #d0d7de; }
+    .title { fill: #24292f; font-size: 18px; font-weight: 600; }
+    .meta { fill: #57606a; font-size: 12px; font-weight: 600; }
+    .name { fill: #24292f; font-size: 13px; font-weight: 600; }
+    .value { fill: #57606a; font-size: 12px; }
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #161b22; stroke: #30363d; }
+      .title, .name { fill: #c9d1d9; }
+      .meta, .value { fill: #8b949e; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="519" height="189" rx="8" class="card-bg" />
+  <text x="18" y="30" class="title">Most Used Languages</text>
+  <text x="502" y="30" text-anchor="end" class="meta">all-time</text>
+  <clipPath id="bar"><rect x="18" y="54" width="484" height="10" rx="5" /></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="18" y="54" width="484" height="10" fill="#d0d7de" />
+    <rect x="18.00" y="54" width="378.65" height="10" fill="#f1e05a" />
+    <rect x="396.65" y="54" width="79.38" height="10" fill="#3178c6" />
+    <rect x="476.03" y="54" width="20.57" height="10" fill="#178600" />
+    <rect x="496.60" y="54" width="5.40" height="10" fill="#8b949e" />
+  </g>
+  <g transform="translate(18 92)">
+      <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
+      <text x="18" y="0" class="name">JavaScript</text>
+      <text x="484" y="0" text-anchor="end" class="value">78.2% &#183; 8.7 MB</text>
+    </g>
+    <g transform="translate(18 120)">
+      <circle cx="5" cy="-4" r="5" fill="#3178c6" />
+      <text x="18" y="0" class="name">TypeScript</text>
+      <text x="484" y="0" text-anchor="end" class="value">16.4% &#183; 1.8 MB</text>
+    </g>
+    <g transform="translate(18 148)">
+      <circle cx="5" cy="-4" r="5" fill="#178600" />
+      <text x="18" y="0" class="name">C#</text>
+      <text x="484" y="0" text-anchor="end" class="value">4.2% &#183; 485.8 KB</text>
+    </g>
+    <g transform="translate(18 176)">
+      <circle cx="5" cy="-4" r="5" fill="#8b949e" />
+      <text x="18" y="0" class="name">Other</text>
+      <text x="484" y="0" text-anchor="end" class="value">1.1% &#183; 127.6 KB</text>
+    </g>
+</svg>

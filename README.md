@@ -20,10 +20,10 @@ timeframe: 8
 gitstats:config -->
 
 <div align="center">
-  <img width="70%" src="./profile/languages-most-used.svg" alt="Most used programming languages" />
+  <img width="70%" src="./profile/most-used.svg" alt="Most used programming languages" />
   <br />
   <br />
-  <img width="70%" src="./profile/languages-recent.svg" alt="Recent programming languages" />
+  <img width="70%" src="./profile/recent.svg" alt="Recent programming languages" />
 </div>
 
 ## Connect
