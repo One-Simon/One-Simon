@@ -17,18 +17,13 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: >-
-            username=One-Simon
-            &layout=compact
-            &langs_count=10
-            &hide=html,css
-            &theme=transparent
-            &hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
+        env:
+          README_STATS_TOKEN: ${{ secrets.README_STATS_TOKEN }}
+          GITHUB_USERNAME: One-Simon
+          OUTPUT: profile/top-langs.svg
+          MAX_LANGUAGES: "10"
+          HIDE_LANGUAGES: HTML,CSS
+        run: node scripts/generate-top-langs.mjs
 
       - name: Commit generated card
         run: |
