@@ -1,4 +1,4 @@
-<svg width="1920" height="554" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="520" height="150" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Recent Languages</title>
   <desc id="desc">Recent language activity by GitHub commit file change counts across repositories available to the token.</desc>
   <style>
@@ -20,10 +20,10 @@
   <text x="18" y="30" class="title">Recent Languages</text>
   <text x="502" y="30" text-anchor="end" class="meta">last 8 weeks</text>
   <g>
-    <path d="M 29 54 H 327.19488030930165 L 327.19488030930165 54 V 76 L 327.19488030930165 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
-    <path d="M 327.19488030930165 54 H 404.23327019463864 L 404.23327019463864 54 V 76 L 404.23327019463864 76 H 327.19488030930165 L 327.19488030930165 76 V 54 L 327.19488030930165 54 Z" fill="#3178c6" />
-    <path d="M 404.23327019463864 54 H 453.6612959801697 L 453.6612959801697 54 V 76 L 453.6612959801697 76 H 404.23327019463864 L 404.23327019463864 76 V 54 L 404.23327019463864 54 Z" fill="hsl(104 62% 48%)" />
-    <path d="M 453.6612959801697 54 H 454.83064799008486 Q 455.99999999999994 54 455.99999999999994 55.169352009915116 V 74.83064799008488 Q 455.99999999999994 76 454.83064799008486 76 H 453.6612959801697 L 453.6612959801697 76 V 54 L 453.6612959801697 54 Z" fill="#8b949e" />
+    <path d="M 29 54 H 327.20759667970015 L 327.20759667970015 54 V 76 L 327.20759667970015 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
+    <path d="M 327.20759667970015 54 H 404.23838089918286 L 404.23838089918286 54 V 76 L 404.23838089918286 76 H 327.20759667970015 L 327.20759667970015 76 V 54 L 327.20759667970015 54 Z" fill="#3178c6" />
+    <path d="M 404.23838089918286 54 H 453.66152687026664 L 453.66152687026664 54 V 76 L 453.66152687026664 76 H 404.23838089918286 L 404.23838089918286 76 V 54 L 404.23838089918286 54 Z" fill="hsl(104 62% 48%)" />
+    <path d="M 453.66152687026664 54 H 454.8307634351333 Q 455.99999999999994 54 455.99999999999994 55.16923656486666 V 74.83076343513335 Q 455.99999999999994 76 454.8307634351333 76 H 453.66152687026664 L 453.66152687026664 76 V 54 L 453.66152687026664 54 Z" fill="#8b949e" />
   </g>
   <g transform="translate(502 57)">
     <text x="0" y="0" text-anchor="end" class="other-name">Other</text>
@@ -33,7 +33,7 @@
       <text x="0" y="0" text-anchor="middle" class="name">JavaScript</text>
       <text x="0" y="18" text-anchor="middle" class="value">70.6%</text>
     </g>
-    <g transform="translate(365.71 100)">
+    <g transform="translate(365.72 100)">
       <text x="0" y="0" text-anchor="middle" class="name">TypeScript</text>
       <text x="0" y="18" text-anchor="middle" class="value">17.6%</text>
     </g>
