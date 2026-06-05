@@ -1,4 +1,4 @@
-# Hi, I'm Simon
+# 👋 Hi, I'm Simon
 
 I started building Software to solve Problems - What Solution do YOU need ?
 
