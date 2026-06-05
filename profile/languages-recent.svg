@@ -1,11 +1,11 @@
-<svg width="520" height="150" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="520" height="132" viewBox="0 0 520 132" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Recent Languages</title>
   <desc id="desc">Recent language activity by GitHub commit file change counts across repositories available to the token.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .card-bg { fill: #f6f8fa; stroke: #d0d7de; }
     .title { fill: #24292f; font-size: 18px; font-weight: 600; }
-    .meta { fill: #57606a; font-size: 12px; }
+    .meta { fill: #57606a; font-size: 12px; font-weight: 600; }
     .name { fill: #111827; font-size: 12px; font-weight: 800; }
     .value { fill: #1f2937; font-size: 11px; font-weight: 800; }
     .other-name { fill: #111827; font-size: 11px; font-weight: 800; }
@@ -16,28 +16,28 @@
       .meta, .value, .other-value { fill: #c9d1d9; }
     }
   </style>
-  <rect x="0.5" y="0.5" width="519" height="149" rx="8" class="card-bg" />
+  <rect x="0.5" y="0.5" width="519" height="131" rx="8" class="card-bg" />
   <text x="18" y="30" class="title">Recent Languages</text>
   <text x="502" y="30" text-anchor="end" class="meta">last 8 weeks</text>
   <g>
-    <path d="M 29 54 H 327.20759667970015 L 327.20759667970015 54 V 76 L 327.20759667970015 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
-    <path d="M 327.20759667970015 54 H 404.23838089918286 L 404.23838089918286 54 V 76 L 404.23838089918286 76 H 327.20759667970015 L 327.20759667970015 76 V 54 L 327.20759667970015 54 Z" fill="#3178c6" />
-    <path d="M 404.23838089918286 54 H 453.66152687026664 L 453.66152687026664 54 V 76 L 453.66152687026664 76 H 404.23838089918286 L 404.23838089918286 76 V 54 L 404.23838089918286 54 Z" fill="hsl(104 62% 48%)" />
-    <path d="M 453.66152687026664 54 H 454.8307634351333 Q 455.99999999999994 54 455.99999999999994 55.16923656486666 V 74.83076343513335 Q 455.99999999999994 76 454.8307634351333 76 H 453.66152687026664 L 453.66152687026664 76 V 54 L 453.66152687026664 54 Z" fill="#8b949e" />
+    <path d="M 29 54 H 327.228 L 327.228 54 V 76 L 327.228 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
+    <path d="M 327.228 54 H 404.31600000000003 L 404.31600000000003 54 V 76 L 404.31600000000003 76 H 327.228 L 327.228 76 V 54 L 327.228 54 Z" fill="#3178c6" />
+    <path d="M 404.31600000000003 54 H 453.81000000000006 L 453.81000000000006 54 V 76 L 453.81000000000006 76 H 404.31600000000003 L 404.31600000000003 76 V 54 L 404.31600000000003 54 Z" fill="hsl(104 62% 48%)" />
+    <path d="M 453.81000000000006 54 H 454.90500000000003 Q 456.00000000000006 54 456.00000000000006 55.095 V 74.905 Q 456.00000000000006 76 454.90500000000003 76 H 453.81000000000006 L 453.81000000000006 76 V 54 L 453.81000000000006 54 Z" fill="#8b949e" />
   </g>
   <g transform="translate(502 57)">
     <text x="0" y="0" text-anchor="end" class="other-name">Other</text>
     <text x="0" y="18" text-anchor="end" class="other-value">0.5%</text>
   </g>
-  <g transform="translate(172.60 100)">
+  <g transform="translate(172.61 98)">
       <text x="0" y="0" text-anchor="middle" class="name">JavaScript</text>
       <text x="0" y="18" text-anchor="middle" class="value">70.6%</text>
     </g>
-    <g transform="translate(365.72 100)">
+    <g transform="translate(365.77 98)">
       <text x="0" y="0" text-anchor="middle" class="name">TypeScript</text>
       <text x="0" y="18" text-anchor="middle" class="value">17.6%</text>
     </g>
-    <g transform="translate(428.95 100)">
+    <g transform="translate(429.06 98)">
       <text x="0" y="0" text-anchor="middle" class="name">JSON</text>
       <text x="0" y="18" text-anchor="middle" class="value">11.3%</text>
     </g>
