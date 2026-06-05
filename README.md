@@ -5,7 +5,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 ## Languages
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Most used programming languages" />
+  <img src="./profile/languages.svg" alt="Most used programming languages" />
 </p>
 
 ## Connect
