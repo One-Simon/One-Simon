@@ -7,7 +7,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <!-- gitstats:config most-used
 style: normal
 grouping: false
-max-languages: 4
+max-languages: 5
 hide-languages: HTML,CSS,JSON
 timeframe: all-time
 gitstats:config -->
