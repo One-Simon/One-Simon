@@ -10,6 +10,7 @@ grouping: false
 max-languages: 4
 hide-languages: HTML,CSS,JSON
 timeframe: all-time
+display-width: 70%
 gitstats:config -->
 
 <!-- gitstats:config recent
@@ -17,14 +18,17 @@ style: compact
 grouping: true
 hide-languages: HTML,CSS,JSON
 timeframe: 8
+display-width: 70%
 gitstats:config -->
 
+<!-- gitstats:display -->
 <div align="center">
-  <img width="70%" src="./profile/most-used.svg" alt="Most used programming languages" />
+  <img width="70%" src="./profile/most-used.svg" alt="Most Used Languages" />
   <br />
   <br />
-  <img width="70%" src="./profile/recent.svg" alt="Recent programming languages" />
+  <img width="70%" src="./profile/recent.svg" alt="Recent Languages" />
 </div>
+<!-- gitstats:display -->
 
 ## Connect
 
