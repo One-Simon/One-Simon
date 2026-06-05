@@ -11,7 +11,6 @@ style: normal
 timeframe: all-time
 show-values: true
 max-languages: 10
-svg-width: 1920
 hide-languages: HTML,CSS
 include-forks: false
 include-archived: false
@@ -25,7 +24,6 @@ style: compact
 timeframe: 8
 show-values: true
 max-languages: 10
-svg-width: 1920
 hide-languages: HTML,CSS
 include-forks: false
 include-archived: false
