@@ -2,7 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 
 const token = process.env.README_STATS_TOKEN || process.env.GITHUB_TOKEN;
 const username = process.env.GITHUB_USERNAME || "One-Simon";
-const output = process.env.OUTPUT || "profile/top-langs.svg";
+const output = process.env.OUTPUT || "profile/languages.svg";
 const maxLanguages = Number(process.env.MAX_LANGUAGES || 10);
 const hide = new Set(
   (process.env.HIDE_LANGUAGES || "HTML,CSS")
