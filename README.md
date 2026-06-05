@@ -8,12 +8,14 @@ I started building Software to solve Problems - What Solution do YOU need ?
 style: normal
 grouping: false
 max-languages: 3
+hide-languages: HTML,CSS,JSON
 timeframe: all-time
 gitstats:config -->
 
 <!-- gitstats:config recent
 style: compact
 grouping: true
+hide-languages: HTML,CSS,JSON
 timeframe: 8
 gitstats:config -->
 
