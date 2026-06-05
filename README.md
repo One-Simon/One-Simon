@@ -11,6 +11,7 @@ style: normal
 timeframe: all-time
 show-values: true
 max-languages: 10
+svg-width: 1920
 hide-languages: HTML,CSS
 include-forks: false
 include-archived: false
@@ -24,16 +25,19 @@ style: compact
 timeframe: 8
 show-values: true
 max-languages: 10
+svg-width: 1920
 hide-languages: HTML,CSS
 include-forks: false
 include-archived: false
 include-profile-repo: false
 gitstats:config -->
 
-<p align="center">
-  <img width="49%" src="./profile/languages-most-used.svg" alt="Most used programming languages" />
-  <img width="49%" src="./profile/languages-recent.svg" alt="Recent programming languages" />
-</p>
+<div align="center">
+  <img width="70%" src="./profile/languages-most-used.svg" alt="Most used programming languages" />
+  <br />
+  <br />
+  <img width="70%" src="./profile/languages-recent.svg" alt="Recent programming languages" />
+</div>
 
 ## Connect
 
