@@ -31,8 +31,8 @@ include-profile-repo: false
 gitstats:config -->
 
 <p align="center">
-  <img width="100%" src="./profile/languages-most-used.svg" alt="Most used programming languages" />
-  <img width="100%" src="./profile/languages-recent.svg" alt="Recent programming languages" />
+  <img width="49%" src="./profile/languages-most-used.svg" alt="Most used programming languages" />
+  <img width="49%" src="./profile/languages-recent.svg" alt="Recent programming languages" />
 </p>
 
 ## Connect
