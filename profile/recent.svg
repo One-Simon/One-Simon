@@ -20,19 +20,19 @@
   <text x="18" y="30" class="title">Recent Languages</text>
   <text x="502" y="30" text-anchor="end" class="meta">last 8 weeks</text>
   <g>
-    <path d="M 29 54 H 366.6223917800845 L 366.6223917800845 54 V 76 L 366.6223917800845 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
-    <path d="M 366.6223917800845 54 H 453.36664872265976 L 453.36664872265976 54 V 76 L 453.36664872265976 76 H 366.6223917800845 L 366.6223917800845 76 V 54 L 366.6223917800845 54 Z" fill="#3178c6" />
-    <path d="M 453.36664872265976 54 H 454.6833243613299 Q 456 54 456 55.31667563867011 V 74.68332436132988 Q 456 76 454.6833243613299 76 H 453.36664872265976 L 453.36664872265976 76 V 54 L 453.36664872265976 54 Z" fill="#8b949e" />
+    <path d="M 29 54 H 366.6456581445072 L 366.6456581445072 54 V 76 L 366.6456581445072 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
+    <path d="M 366.6456581445072 54 H 453.36733422445036 L 453.36733422445036 54 V 76 L 453.36733422445036 76 H 366.6456581445072 L 366.6456581445072 76 V 54 L 366.6456581445072 54 Z" fill="#3178c6" />
+    <path d="M 453.36733422445036 54 H 454.6836671122252 Q 456 54 456 55.31633288777483 V 74.68366711222517 Q 456 76 454.6836671122252 76 H 453.36733422445036 L 453.36733422445036 76 V 54 L 453.36733422445036 54 Z" fill="#8b949e" />
   </g>
   <g transform="translate(502 57)">
     <text x="0" y="0" text-anchor="end" class="other-name">Other</text>
     <text x="0" y="18" text-anchor="end" class="other-value">0.6%</text>
   </g>
-  <g transform="translate(192.31 98)">
+  <g transform="translate(192.32 98)">
       <text x="0" y="0" text-anchor="middle" class="name">JavaScript</text>
       <text x="0" y="18" text-anchor="middle" class="value">79.6%</text>
     </g>
-    <g transform="translate(409.99 98)">
+    <g transform="translate(410.01 98)">
       <text x="0" y="0" text-anchor="middle" class="name">TypeScript</text>
       <text x="0" y="18" text-anchor="middle" class="value">19.8%</text>
     </g>
