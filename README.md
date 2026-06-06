@@ -40,5 +40,5 @@ gitstats:config -->
 [![Email](https://img.shields.io/badge/-Email-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:simon.federmann@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=One-Simon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=One-Simon&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile view counter" />
 </p>
