@@ -1,7 +1,7 @@
 <h1>
   👋 Hi, I'm Simon
   <a href="https://git.io/typing-svg">
-    <img align="right" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&letterSpacing=0.1em&duration=3000&pause=1000&color=F7F7F7&center=true&width=560&height=55&lines=%F0%9F%A7%A9+Software+%26+System+Design;%F0%9F%A4%96+Machine+Learning;%F0%9F%A7%A0+Artificial+Intelligence;%F0%9F%8E%AC+Content+%26+Influencer+Management;%F0%9F%9A%80+Project+%26+Product+Management" alt="Typing SVG" />
+    <img align="right" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&letterSpacing=0.1em&duration=3000&pause=1000&color=F7F7F7&center=false&width=476&height=47&lines=%F0%9F%A7%A9+Software+%26+System+Design;%F0%9F%A4%96+Machine+Learning;%F0%9F%A7%A0+Artificial+Intelligence;%F0%9F%8E%AC+Content+%26+Influencer+Management;%F0%9F%9A%80+Project+%26+Product+Management" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -59,3 +59,4 @@ lines=First+line;Second+line;Third+line
 - Increase `width` if the longest line is clipped.
 - Tune the look with `font`, `size`, `color`, `duration`, and `pause`.
 - Keep the image inside the same `<h1>` as the title and preserve `align="right"` to keep both elements on one heading line.
+- The hosted generator supports centered or left-aligned text only; for true right-aligned text, use a custom or self-hosted SVG.
