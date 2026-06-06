@@ -21,14 +21,14 @@ timeframe: 8
 display-width: 70%
 gitstats:config -->
 
-<!-- gitstats:display -->
 <div align="center">
+<!-- gitstats:display -->
   <img width="70%" src="./profile/most-used.svg" alt="Most Used Languages" />
   <br />
   <br />
   <img width="70%" src="./profile/recent.svg" alt="Recent Languages" />
-</div>
 <!-- gitstats:display -->
+</div>
 
 ## Connect
 
