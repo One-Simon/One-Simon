@@ -20,15 +20,15 @@
   <clipPath id="bar"><rect x="18" y="54" width="484" height="10" rx="5" /></clipPath>
   <g clip-path="url(#bar)">
     <rect x="18" y="54" width="484" height="10" fill="#d0d7de" />
-    <rect x="18.00" y="54" width="378.72" height="10" fill="#f1e05a" />
-    <rect x="396.72" y="54" width="79.33" height="10" fill="#3178c6" />
-    <rect x="476.05" y="54" width="20.55" height="10" fill="#178600" />
+    <rect x="18.00" y="54" width="378.75" height="10" fill="#f1e05a" />
+    <rect x="396.75" y="54" width="79.31" height="10" fill="#3178c6" />
+    <rect x="476.06" y="54" width="20.55" height="10" fill="#178600" />
     <rect x="496.60" y="54" width="5.40" height="10" fill="#8b949e" />
   </g>
   <g transform="translate(18 92)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
       <text x="18" y="0" class="name">JavaScript</text>
-      <text x="484" y="0" text-anchor="end" class="value">78.2% &#183; 8.7 MB</text>
+      <text x="484" y="0" text-anchor="end" class="value">78.3% &#183; 8.7 MB</text>
     </g>
     <g transform="translate(18 120)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6" />
