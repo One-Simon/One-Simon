@@ -1,16 +1,8 @@
-<table>
-  <tr>
-    <td width="45%">
-      <h1>👋 Hi, I'm Simon</h1>
-    </td>
-    <td width="55%" align="right">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=36BCF7&center=false&vCenter=true&width=430&lines=Software+builder;Developer+tools;Automation+and+clean+interfaces" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=36BCF7&center=false&vCenter=true&width=430&lines=Software+builder;Developer+tools;Automation+and+clean+interfaces" alt="Typing SVG" />
+</a>
 
+# 👋 Hi, I'm Simon
 
 I started building Software to solve Problems - What Solution do YOU need ?
 
@@ -65,4 +57,4 @@ lines=First+line;Second+line;Third+line
 - Encode special characters such as commas, apostrophes, and ampersands, or use the [demo builder](https://readme-typing-svg.demolab.com/demo/) and copy the generated URL.
 - Increase `width` if the longest line is clipped.
 - Tune the look with `font`, `size`, `color`, `duration`, and `pause`.
-- Keep the image in the right table cell to keep it inline with the headline.
+- Keep `align="right"` on the image to float it beside the headline without adding table borders.
