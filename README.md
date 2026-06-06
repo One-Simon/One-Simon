@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Simon
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=One-Simon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter" />
+</p>
+
 I started building Software to solve Problems - What Solution do YOU need ?
 
 ## 🧩 Languages
