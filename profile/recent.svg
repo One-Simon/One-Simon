@@ -20,20 +20,20 @@
   <text x="18" y="30" class="title">Recent Languages</text>
   <text x="502" y="30" text-anchor="end" class="meta">last 8 weeks</text>
   <g>
-    <path d="M 29 54 H 361.3719470206893 L 361.3719470206893 54 V 76 L 361.3719470206893 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
-    <path d="M 361.3719470206893 54 H 453.20807096994326 L 453.20807096994326 54 V 76 L 453.20807096994326 76 H 361.3719470206893 L 361.3719470206893 76 V 54 L 361.3719470206893 54 Z" fill="#3178c6" />
-    <path d="M 453.20807096994326 54 H 454.60403548497163 Q 456 54 456 55.39596451502838 V 74.60403548497162 Q 456 76 454.60403548497163 76 H 453.20807096994326 L 453.20807096994326 76 V 54 L 453.20807096994326 54 Z" fill="#8b949e" />
+    <path d="M 29 54 H 333.34657616575 L 333.34657616575 54 V 76 L 333.34657616575 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#f1e05a" />
+    <path d="M 333.34657616575 54 H 453.43624726916426 L 453.43624726916426 54 V 76 L 453.43624726916426 76 H 333.34657616575 L 333.34657616575 76 V 54 L 333.34657616575 54 Z" fill="#3178c6" />
+    <path d="M 453.43624726916426 54 H 454.7181236345821 Q 456 54 456 55.281876365417865 V 74.71812363458214 Q 456 76 454.7181236345821 76 H 453.43624726916426 L 453.43624726916426 76 V 54 L 453.43624726916426 54 Z" fill="#8b949e" />
   </g>
   <g transform="translate(502 57)">
     <text x="0" y="0" text-anchor="end" class="other-name">Other</text>
     <text x="0" y="18" text-anchor="end" class="other-value">0.6%</text>
   </g>
-  <g transform="translate(189.69 98)">
+  <g transform="translate(175.67 98)">
       <text x="0" y="0" text-anchor="middle" class="name">JavaScript</text>
-      <text x="0" y="18" text-anchor="middle" class="value">78.4%</text>
+      <text x="0" y="18" text-anchor="middle" class="value">72.0%</text>
     </g>
-    <g transform="translate(407.29 98)">
+    <g transform="translate(393.39 98)">
       <text x="0" y="0" text-anchor="middle" class="name">TypeScript</text>
-      <text x="0" y="18" text-anchor="middle" class="value">21.0%</text>
+      <text x="0" y="18" text-anchor="middle" class="value">27.4%</text>
     </g>
 </svg>
