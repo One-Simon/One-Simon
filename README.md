@@ -1,8 +1,9 @@
-<a href="https://git.io/typing-svg">
-  <img align="right" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&letterSpacing=0.1em&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%A7%A9+Software+%26+System+Design;%F0%9F%A4%96+Machine+Learning;%F0%9F%A7%A0+Artificial+Intelligence;%F0%9F%8E%AC+Content+%26+Influencer+Management;%F0%9F%9A%80+Project+%26+Product+Management" alt="Typing SVG" />
-</a>
-
-# 👋 Hi, I'm Simon
+<h1>
+  👋 Hi, I'm Simon
+  <a href="https://git.io/typing-svg">
+    <img align="right" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&letterSpacing=0.1em&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%A7%A9+Software+%26+System+Design;%F0%9F%A4%96+Machine+Learning;%F0%9F%A7%A0+Artificial+Intelligence;%F0%9F%8E%AC+Content+%26+Influencer+Management;%F0%9F%9A%80+Project+%26+Product+Management" alt="Typing SVG" />
+  </a>
+</h1>
 
 I started building Software to solve Problems - What Solution do YOU need ?
 
@@ -57,4 +58,4 @@ lines=First+line;Second+line;Third+line
 - Encode special characters such as commas, apostrophes, and ampersands, or use the [demo builder](https://readme-typing-svg.demolab.com/demo/) and copy the generated URL.
 - Increase `width` if the longest line is clipped.
 - Tune the look with `font`, `size`, `color`, `duration`, and `pause`.
-- Keep `align="right"` on the image to float it beside the headline without adding table borders.
+- Keep the image inside the same `<h1>` as the title and preserve `align="right"` to keep both elements on one heading line.
