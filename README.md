@@ -10,7 +10,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 ## 🚀 Projects
 
 <a href="https://github.com/One-Simon/parkingpage-comingsoon">
-  <img align="right" width="50%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
+  <img align="right" width="52%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
 </a>
 
 ### parkingpage-comingsoon
