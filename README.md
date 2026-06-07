@@ -21,17 +21,19 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <br>
   <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
   <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
+  <br>
   <img alt="Deployed status" src="https://img.shields.io/badge/Status-Deployed-2EA44F?style=flat-square">
 </p>
 
 <p>
-  A ready-to-customize coming soon page for launches, waitlists,<br>
-  and early-access campaigns. It combines a glass-style content panel<br>
-  with an animated WebGL background, draggable physics typography,<br>
-  and an optional waitlist form powered by <code>VITE_FORM_ENDPOINT</code>.
+  A ready-to-customize coming soon page for launches,<br>
+  waitlists, and early-access campaigns.<br>
+  It combines a glass-style content panel with WebGL motion,<br>
+  draggable physics typography, and an optional waitlist form.
 </p>
 
-[Quick setup](https://github.com/One-Simon/parkingpage-comingsoon#quick-setup) · [Customize](https://github.com/One-Simon/parkingpage-comingsoon#customize) · [Deploy](https://github.com/One-Simon/parkingpage-comingsoon#deploy-on-render)
+[Quick setup](https://github.com/One-Simon/parkingpage-comingsoon#quick-setup) · [Customize](https://github.com/One-Simon/parkingpage-comingsoon#customize)<br>
+[Deploy](https://github.com/One-Simon/parkingpage-comingsoon#deploy-on-render)
 
 <br clear="right">
 
