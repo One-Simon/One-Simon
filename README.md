@@ -67,6 +67,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <!-- gitstats:config most-used
 style: normal
 grouping: false
+show-values: false
 max-languages: 4
 hide-languages: HTML,CSS,JSON
 timeframe: all-time
@@ -76,6 +77,7 @@ gitstats:config -->
 <!-- gitstats:config recent
 style: compact
 grouping: true
+show-values:false
 hide-languages: HTML,CSS,JSON
 timeframe: 8
 display-width: 70%
