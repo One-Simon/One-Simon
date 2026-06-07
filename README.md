@@ -13,7 +13,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img align="right" hspace="10" width="50%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
 </a>
 
-### parkingpage-comingsoon <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+### parkingpage-comingsoon
+
+<p>
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
 <p>
   <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
@@ -28,8 +32,6 @@ I started building Software to solve Problems - What Solution do YOU need ?
   draggable physics typography, and an optional waitlist form.
 </p>
 
-[Quick setup](https://github.com/One-Simon/parkingpage-comingsoon#quick-setup)
-
 <p>
   <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
 </p>
@@ -42,7 +44,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img align="right" hspace="10" width="50%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
 </a>
 
-### GitStats <a href="https://github.com/One-Simon/GitStats"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+### GitStats
+
+<p>
+  <a href="https://github.com/One-Simon/GitStats"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
 <p>
   <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
@@ -56,8 +62,6 @@ I started building Software to solve Problems - What Solution do YOU need ?
   for all-time language bytes or recent activity windows,<br>
   with normal and compact display styles.
 </p>
-
-[Quick setup](https://github.com/One-Simon/GitStats#quick-setup)
 
 <p>
   <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
