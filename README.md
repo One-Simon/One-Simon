@@ -68,7 +68,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 style: normal
 grouping: false
 show-values: false
-max-languages: 4
+max-languages: 6
 hide-languages: HTML,CSS,JSON
 timeframe: all-time
 display-width: 70%
