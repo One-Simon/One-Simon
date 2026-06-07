@@ -15,8 +15,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 ### parkingpage-comingsoon
 
-<p>
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+<p align="right">
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 <p>
@@ -46,8 +46,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 ### GitStats
 
-<p>
-  <a href="https://github.com/One-Simon/GitStats"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+<p align="right">
+  <a href="https://github.com/One-Simon/GitStats"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 <p>
