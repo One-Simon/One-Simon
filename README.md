@@ -15,8 +15,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 <h3>
   parkingpage-comingsoon
-  <img align="right" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img align="right" height="23" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" height="23" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
 </h3>
 
 <p>
@@ -39,8 +39,8 @@ A ready-to-customize coming soon page for launches, waitlists, and early-access 
 
 <h3>
   GitStats
-  <img align="right" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <a href="https://github.com/One-Simon/GitStats"><img align="right" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img align="right" height="23" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
+  <a href="https://github.com/One-Simon/GitStats"><img align="right" height="23" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
 </h3>
 
 <p>
