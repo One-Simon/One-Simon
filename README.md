@@ -13,15 +13,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img align="right" hspace="10" width="50%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
 </a>
 
-### parkingpage-comingsoon
+### parkingpage-comingsoon <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
 
 <p>
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-  <img height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <br>
-  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
   <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
-  <br>
+  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
   <img alt="Deployed status" src="https://img.shields.io/badge/Status-Deployed-2EA44F?style=flat-square">
 </p>
 
@@ -32,8 +28,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
   draggable physics typography, and an optional waitlist form.
 </p>
 
-[Quick setup](https://github.com/One-Simon/parkingpage-comingsoon#quick-setup) · [Customize](https://github.com/One-Simon/parkingpage-comingsoon#customize)<br>
-[Deploy](https://github.com/One-Simon/parkingpage-comingsoon#deploy-on-render)
+[Quick setup](https://github.com/One-Simon/parkingpage-comingsoon#quick-setup)
+
+<p>
+  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
+</p>
 
 <br clear="right">
 
@@ -43,15 +42,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img align="right" hspace="10" width="50%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
 </a>
 
-### GitStats
+### GitStats <a href="https://github.com/One-Simon/GitStats"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
 
 <p>
-  <a href="https://github.com/One-Simon/GitStats"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-  <img height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <br>
-  <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
   <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
+  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
   <img alt="Done status" src="https://img.shields.io/badge/Status-Done-2EA44F?style=flat-square">
 </p>
 
@@ -62,7 +57,12 @@ I started building Software to solve Problems - What Solution do YOU need ?
   with normal and compact display styles.
 </p>
 
-[Quick setup](https://github.com/One-Simon/GitStats#quick-setup) · [Settings](https://github.com/One-Simon/GitStats#settings) · [Examples](https://github.com/One-Simon/GitStats#examples)
+[Quick setup](https://github.com/One-Simon/GitStats#quick-setup)
+
+<p>
+  <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
+</p>
 
 <br clear="right">
 
