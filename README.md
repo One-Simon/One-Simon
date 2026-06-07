@@ -13,14 +13,16 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img align="right" width="48%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
 </a>
 
-### parkingpage-comingsoon
+<h3>
+  parkingpage-comingsoon
+  <img align="right" alt="MIT License" src="https://img.shields.io/badge/License-MIT-F7B731?style=for-the-badge">
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</h3>
 
 <p>
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img alt="Repo" src="https://img.shields.io/badge/Repo-parkingpage--comingsoon-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-46E3B7?style=flat-square">
-  <img alt="Waitlist ready" src="https://img.shields.io/badge/Waitlist-Ready-0A7EA4?style=flat-square">
-  <img alt="Launch page" src="https://img.shields.io/badge/Launch-Coming%20Soon-F59E0B?style=flat-square">
-  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-F7B731?style=flat-square">
+  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
+  <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
+  <img alt="Deployed status" src="https://img.shields.io/badge/Status-Deployed-2EA44F?style=flat-square">
 </p>
 
 A ready-to-customize coming soon page for launches, waitlists, and early-access campaigns. It combines a glass-style content panel with an animated WebGL background, draggable physics typography, and an optional waitlist form powered by `VITE_FORM_ENDPOINT`.
@@ -35,14 +37,17 @@ A ready-to-customize coming soon page for launches, waitlists, and early-access 
   <img align="right" width="48%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
 </a>
 
-### GitStats
+<h3>
+  GitStats
+  <img align="right" alt="MIT License" src="https://img.shields.io/badge/License-MIT-F7B731?style=for-the-badge">
+  <a href="https://github.com/One-Simon/GitStats"><img align="right" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</h3>
 
 <p>
-  <a href="https://github.com/One-Simon/GitStats"><img alt="Repo" src="https://img.shields.io/badge/Repo-GitStats-181717?style=flat-square&logo=github&logoColor=white"></a>
   <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="README cards" src="https://img.shields.io/badge/README-Language%20Cards-2EA44F?style=flat-square&logo=github&logoColor=white">
-  <img alt="Config driven" src="https://img.shields.io/badge/Config-Driven-0A7EA4?style=flat-square">
-  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-F7B731?style=flat-square">
+  <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
+  <img alt="Done status" src="https://img.shields.io/badge/Status-Done-2EA44F?style=flat-square">
 </p>
 
 Fully configurable language breakdown cards for GitHub profile READMEs. README-driven `gitstats:config` blocks generate managed SVG cards for all-time language bytes or recent activity windows, with normal and compact display styles.
