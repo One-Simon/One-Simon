@@ -9,58 +9,17 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 ## 🚀 Projects
 
-<a href="https://github.com/One-Simon/parkingpage-comingsoon">
-  <img align="right" hspace="10" width="50%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
-</a>
-
-### parkingpage-comingsoon <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" hspace="10" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-
-<p>
-  <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
-  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <img alt="Deployed status" src="https://img.shields.io/badge/Status-Deployed-2EA44F?style=flat-square">
+<p align="center">
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="top" width="49%" src="./assets/project-parkingpage-info.svg" alt="parkingpage-comingsoon project information"></a>
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="top" width="49%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview"></a>
 </p>
-
-<p>
-  A ready-to-customize coming soon page for launches,<br>
-  waitlists, and early-access campaigns.<br>
-  It combines a glass-style content panel with WebGL motion,<br>
-  draggable physics typography, and an optional waitlist form.
-</p>
-
-<p>
-  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
-</p>
-
-<br clear="right">
 
 ---
 
-<a href="https://github.com/One-Simon/GitStats#examples">
-  <img align="right" hspace="10" width="50%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
-</a>
-
-### GitStats <a href="https://github.com/One-Simon/GitStats"><img align="right" hspace="10" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-
-<p>
-  <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
-  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <img alt="Done status" src="https://img.shields.io/badge/Status-Done-2EA44F?style=flat-square">
+<p align="center">
+  <a href="https://github.com/One-Simon/GitStats"><img align="top" width="49%" src="./assets/project-gitstats-info.svg" alt="GitStats project information"></a>
+  <a href="https://github.com/One-Simon/GitStats#examples"><img align="top" width="49%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example"></a>
 </p>
-
-<p>
-  Fully configurable language breakdown cards for GitHub profile READMEs.<br>
-  README-driven <code>gitstats:config</code> blocks generate managed SVG cards<br>
-  for all-time language bytes or recent activity windows,<br>
-  with normal and compact display styles.
-</p>
-
-<p>
-  <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
-</p>
-
-<br clear="right">
 
 ## 🧩 Languages
 
