@@ -17,10 +17,10 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 <p>
   <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img alt="Repo" src="https://img.shields.io/badge/Repo-parkingpage--comingsoon-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <img alt="Vite 8" src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white">
-  <img alt="TypeScript 6" src="https://img.shields.io/badge/TypeScript-6-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Pixi.js" src="https://img.shields.io/badge/Pixi.js-8.18-EA1E63?style=flat-square">
-  <img alt="Matter.js" src="https://img.shields.io/badge/Matter.js-0.20-1B1F23?style=flat-square">
+  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-46E3B7?style=flat-square">
+  <img alt="Waitlist ready" src="https://img.shields.io/badge/Waitlist-Ready-0A7EA4?style=flat-square">
+  <img alt="Launch page" src="https://img.shields.io/badge/Launch-Coming%20Soon-F59E0B?style=flat-square">
+  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-F7B731?style=flat-square">
 </p>
 
 A ready-to-customize coming soon page for launches, waitlists, and early-access campaigns. It combines a glass-style content panel with an animated WebGL background, draggable physics typography, and an optional waitlist form powered by `VITE_FORM_ENDPOINT`.
@@ -39,9 +39,9 @@ A ready-to-customize coming soon page for launches, waitlists, and early-access 
 
 <p>
   <a href="https://github.com/One-Simon/GitStats"><img alt="Repo" src="https://img.shields.io/badge/Repo-GitStats-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <img alt="Composite Action" src="https://img.shields.io/badge/Composite-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="README updates" src="https://img.shields.io/badge/Auto-README%20Updates-2EA44F?style=flat-square&logo=github&logoColor=white">
-  <img alt="GitHub REST API" src="https://img.shields.io/badge/GitHub-REST%20API-181717?style=flat-square&logo=github&logoColor=white">
+  <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="README cards" src="https://img.shields.io/badge/README-Language%20Cards-2EA44F?style=flat-square&logo=github&logoColor=white">
+  <img alt="Config driven" src="https://img.shields.io/badge/Config-Driven-0A7EA4?style=flat-square">
   <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-F7B731?style=flat-square">
 </p>
 
