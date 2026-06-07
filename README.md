@@ -15,8 +15,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 <h3>
   parkingpage-comingsoon
-  <img align="right" height="23" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" height="23" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img align="right" height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
 </h3>
 
 <p>
@@ -39,13 +39,13 @@ A ready-to-customize coming soon page for launches, waitlists, and early-access 
 
 <h3>
   GitStats
-  <img align="right" height="23" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <a href="https://github.com/One-Simon/GitStats"><img align="right" height="23" alt="Repo" src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img align="right" height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
+  <a href="https://github.com/One-Simon/GitStats"><img align="right" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
 </h3>
 
 <p>
   <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="README cards" src="https://img.shields.io/badge/README-Language%20Cards-2EA44F?style=flat-square&logo=github&logoColor=white">
+  <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
   <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
   <img alt="Done status" src="https://img.shields.io/badge/Status-Done-2EA44F?style=flat-square">
 </p>
