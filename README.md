@@ -13,12 +13,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img align="right" width="50%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
 </a>
 
-<h3>
-  parkingpage-comingsoon
-  <img align="right" width="10" height="1" alt="" src="./assets/readme-spacer.svg">
-  <img align="right" hspace="4" height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img align="right" hspace="4" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-</h3>
+### parkingpage-comingsoon <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a> <img height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
 
 <p>
   <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
@@ -35,15 +30,10 @@ A ready-to-customize coming soon page for launches, waitlists, and early-access 
 ---
 
 <a href="https://github.com/One-Simon/GitStats#examples">
-  <img align="right" width="48%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
+  <img align="right" width="50%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
 </a>
 
-<h3>
-  GitStats
-  <img align="right" width="10" height="1" alt="" src="./assets/readme-spacer.svg">
-  <img align="right" hspace="4" height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <a href="https://github.com/One-Simon/GitStats"><img align="right" hspace="4" height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-</h3>
+### GitStats <a href="https://github.com/One-Simon/GitStats"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a> <img height="26" alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
 
 <p>
   <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
