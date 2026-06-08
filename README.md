@@ -9,7 +9,9 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 ## 🚀 Projects
 
-## parkingpage-comingsoon
+### parkingpage-comingsoon
+
+<br>
 
 <a href="https://github.com/One-Simon/parkingpage-comingsoon">
   <img align="right" hspace="10" width="50%" src="./assets/parkingpage-comingsoon-preview.gif" alt="parkingpage-comingsoon animated preview">
@@ -39,7 +41,9 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 ---
 
-## GitStats
+### GitStats
+
+<br>
 
 <a href="https://github.com/One-Simon/GitStats#examples">
   <img align="right" hspace="10" width="50%" src="https://raw.githubusercontent.com/One-Simon/GitStats/main/examples/most-used-extended.svg" alt="GitStats normal language card example">
