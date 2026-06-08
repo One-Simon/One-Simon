@@ -16,7 +16,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 ### parkingpage-comingsoon
 
 <p>
-  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/One-Simon/parkingpage-comingsoon"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
   <img height="26" alt="Deployed status" src="https://img.shields.io/badge/Status-Deployed-2EA44F?style=flat-square">
 </p>
 
@@ -27,13 +27,15 @@ I started building Software to solve Problems - What Solution do YOU need ?
   draggable physics typography, and an optional waitlist form.
 </p>
 
+<br clear="right">
+
+<br>
+
 <p>
   <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
   <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
   <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
 </p>
-
-<br clear="right">
 
 ---
 
@@ -44,7 +46,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 ### GitStats
 
 <p>
-  <a href="https://github.com/One-Simon/GitStats"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-Open-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/One-Simon/GitStats"><img height="26" alt="Open repo" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
   <img height="26" alt="Done status" src="https://img.shields.io/badge/Status-Done-2EA44F?style=flat-square">
 </p>
 
@@ -55,14 +57,16 @@ I started building Software to solve Problems - What Solution do YOU need ?
   with normal and compact display styles.
 </p>
 
+<br clear="right">
+
+<br>
+
 <p>
   <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
   <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
   <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
 </p>
-
-<br clear="right">
 
 ## 🧩 Languages
 
