@@ -21,16 +21,16 @@ I started building Software to solve Problems - What Solution do YOU need ?
 </p>
 
 <p>
-  <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
-  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
-</p>
-
-<p>
   A ready-to-customize coming soon page for launches,<br>
   waitlists, and early-access campaigns.<br>
   It combines a glass-style content panel with WebGL motion,<br>
   draggable physics typography, and an optional waitlist form.
+</p>
+
+<p>
+  <img alt="Branding usage" src="https://img.shields.io/badge/Usage-Branding-F7B731?style=flat-square">
+  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
+  <img alt="Static web project" src="https://img.shields.io/badge/Web-Static-0B3D91?style=flat-square">
 </p>
 
 <br clear="right">
@@ -49,17 +49,17 @@ I started building Software to solve Problems - What Solution do YOU need ?
 </p>
 
 <p>
-  <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
-  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
-  <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
-</p>
-
-<p>
   Fully configurable language breakdown cards for GitHub profile READMEs.<br>
   README-driven <code>gitstats:config</code> blocks generate managed SVG cards<br>
   for all-time language bytes or recent activity windows,<br>
   with normal and compact display styles.
+</p>
+
+<p>
+  <img alt="Analytics usage" src="https://img.shields.io/badge/Usage-Analytics-D97706?style=flat-square">
+  <img alt="MIT Licence" src="https://img.shields.io/badge/Licence-MIT-F7B731?style=flat-square">
+  <img alt="GitHub Action" src="https://img.shields.io/badge/GitHub-Action-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
 </p>
 
 <br clear="right">
