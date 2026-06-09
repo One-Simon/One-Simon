@@ -7,6 +7,9 @@
 
 I started building Software to solve Problems - What Solution do YOU need ?
 
+<br>
+<br>
+
 ## 🚀 Projects
 
 ### parkingpage-comingsoon
@@ -72,6 +75,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
   <img height="22" alt="README statistics" src="https://img.shields.io/badge/README-Statistics-2EA44F?style=flat-square&logo=github&logoColor=white">
 </p>
 
+
+
+<br>
+<br>
+
 ## 🛠️ Maintaining
 
 ### Bulk Crap Uninstaller
@@ -79,7 +87,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <br>
 
 <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller">
-  <img align="right" hspace="10" width="34%" src="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true" alt="Bulk Crap Uninstaller repository card">
+  <img align="right" hspace="10" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true" alt="Bulk Crap Uninstaller repository card">
 </a>
 
 <p>
@@ -94,6 +102,11 @@ I started building Software to solve Problems - What Solution do YOU need ?
 </p>
 
 <br clear="right">
+
+
+
+<br>
+<br
 
 ## 🧩 Languages
 
