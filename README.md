@@ -10,7 +10,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <br>
 <br>
 
-## 🚀 Projects
+# 🚀 Projects
 
 ### parkingpage-comingsoon
 
@@ -80,7 +80,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <br>
 <br>
 
-## 🛠️ Maintaining
+# 🛠️ Maintaining
 
 ### Bulk Crap Uninstaller
 
@@ -108,7 +108,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <br>
 <br
 
-## 🧩 Languages
+# 🧩 Languages
 
 <!-- gitstats:config most-used
 style: normal
@@ -138,7 +138,7 @@ gitstats:config -->
 <!-- gitstats:display -->
 </div>
 
-## Connect
+# Connect
 
 [![Email](https://img.shields.io/badge/-Email-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:simon.federmann@gmail.com)
 
