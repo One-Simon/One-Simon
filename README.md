@@ -79,12 +79,12 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <br>
 
 <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues">
-  <img align="right" hspace="10" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true" alt="Bulk Crap Uninstaller repository card">
+  <img align="right" hspace="10" width="34%" src="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true" alt="Bulk Crap Uninstaller repository card">
 </a>
 
 <p>
-  <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues"><img height="26" alt="Open issues" src="https://img.shields.io/badge/Issues-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-  <img height="26" alt="Maintainer role" src="https://img.shields.io/badge/Role-Maintainer-2EA44F?style=flat-square">
+  <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues"><img height="24" alt="Open issues" src="https://img.shields.io/badge/Issues-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+  <img height="24" alt="Maintainer role" src="https://img.shields.io/badge/Role-Maintainer-2EA44F?style=flat-square">
 </p>
 
 <p>
@@ -94,15 +94,6 @@ I started building Software to solve Problems - What Solution do YOU need ?
 </p>
 
 <br clear="right">
-
-<br>
-
-<p>
-  <img height="22" alt="Desktop utility" src="https://img.shields.io/badge/Desktop-Utility-0B3D91?style=flat-square">
-  <img height="22" alt="Windows project" src="https://img.shields.io/badge/Windows-App-0078D4?style=flat-square&logo=windows&logoColor=white">
-  <img height="22" alt="Open source project" src="https://img.shields.io/badge/Open-Source-2EA44F?style=flat-square&logo=opensourceinitiative&logoColor=white">
-  <img height="22" alt="Issue triage" src="https://img.shields.io/badge/Issues-Triage-D97706?style=flat-square&logo=github&logoColor=white">
-</p>
 
 ## 🧩 Languages
 
