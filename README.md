@@ -83,8 +83,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
 </a>
 
 <p>
-  <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues"><img height="24" alt="Open issues" src="https://img.shields.io/badge/Issues-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
-  <img height="24" alt="Maintainer role" src="https://img.shields.io/badge/Role-Maintainer-2EA44F?style=flat-square">
+  <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues"><img height="24" alt="Open repository" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+  <img height="24" alt="Maintainer role" src="https://img.shields.io/badge/Role-Maintainer-F7B731?style=flat-square">
 </p>
 
 <p>
