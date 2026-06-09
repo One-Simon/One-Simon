@@ -78,12 +78,12 @@ I started building Software to solve Problems - What Solution do YOU need ?
 
 <br>
 
-<a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues">
+<a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller">
   <img align="right" hspace="10" width="34%" src="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true" alt="Bulk Crap Uninstaller repository card">
 </a>
 
 <p>
-  <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/issues"><img height="24" alt="Open repository" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller"><img height="24" alt="Open repository" src="https://img.shields.io/badge/Repo-%E2%86%97-2EA44F?style=flat-square&logo=github&logoColor=white"></a>
   <img height="24" alt="Maintainer role" src="https://img.shields.io/badge/Role-Maintainer-F7B731?style=flat-square">
 </p>
 
