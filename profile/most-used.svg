@@ -20,27 +20,27 @@
   <clipPath id="bar"><rect x="18" y="54" width="484" height="10" rx="5" /></clipPath>
   <g clip-path="url(#bar)">
     <rect x="18" y="54" width="484" height="10" fill="#d0d7de" />
-    <rect x="18.00" y="54" width="190.46" height="10" fill="#3178c6" />
-    <rect x="208.46" y="54" width="107.89" height="10" fill="#178600" />
-    <rect x="316.35" y="54" width="101.90" height="10" fill="#f1e05a" />
-    <rect x="418.25" y="54" width="40.89" height="10" fill="#3572A5" />
-    <rect x="459.14" y="54" width="28.32" height="10" fill="#dea584" />
-    <rect x="487.47" y="54" width="14.53" height="10" fill="#8b949e" />
+    <rect x="18.00" y="54" width="191.45" height="10" fill="#3178c6" />
+    <rect x="209.45" y="54" width="107.53" height="10" fill="#178600" />
+    <rect x="316.98" y="54" width="101.55" height="10" fill="#f1e05a" />
+    <rect x="418.53" y="54" width="40.76" height="10" fill="#3572A5" />
+    <rect x="459.29" y="54" width="28.23" height="10" fill="#dea584" />
+    <rect x="487.52" y="54" width="14.48" height="10" fill="#8b949e" />
   </g>
   <g transform="translate(18 92)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6" />
       <text x="18" y="0" class="name">TypeScript</text>
-      <text x="484" y="0" text-anchor="end" class="value">39.4%</text>
+      <text x="484" y="0" text-anchor="end" class="value">39.6%</text>
     </g>
     <g transform="translate(18 120)">
       <circle cx="5" cy="-4" r="5" fill="#178600" />
       <text x="18" y="0" class="name">C#</text>
-      <text x="484" y="0" text-anchor="end" class="value">22.3%</text>
+      <text x="484" y="0" text-anchor="end" class="value">22.2%</text>
     </g>
     <g transform="translate(18 148)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
       <text x="18" y="0" class="name">JavaScript</text>
-      <text x="484" y="0" text-anchor="end" class="value">21.1%</text>
+      <text x="484" y="0" text-anchor="end" class="value">21.0%</text>
     </g>
     <g transform="translate(18 176)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5" />
@@ -50,7 +50,7 @@
     <g transform="translate(18 204)">
       <circle cx="5" cy="-4" r="5" fill="#dea584" />
       <text x="18" y="0" class="name">Rust</text>
-      <text x="484" y="0" text-anchor="end" class="value">5.9%</text>
+      <text x="484" y="0" text-anchor="end" class="value">5.8%</text>
     </g>
     <g transform="translate(18 232)">
       <circle cx="5" cy="-4" r="5" fill="#8b949e" />
