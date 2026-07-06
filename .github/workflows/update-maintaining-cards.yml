@@ -1,0 +1,50 @@
+name: Update maintaining cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh Bulk Crap Uninstaller card
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          card_url="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true"
+          target="assets/bulk-crap-uninstaller-card.svg"
+          tmp_file="$(mktemp)"
+
+          http_code="$(curl -sSL --connect-timeout 10 --max-time 30 -w '%{http_code}' -o "$tmp_file" "$card_url" || true)"
+
+          if [[ "$http_code" != "200" ]]; then
+            echo "Card service returned HTTP $http_code; keeping existing cached card."
+            exit 0
+          fi
+
+          if ! grep -qi '<svg' "$tmp_file" || ! grep -qi '</svg>' "$tmp_file"; then
+            echo "Card service did not return a complete SVG; keeping existing cached card."
+            exit 0
+          fi
+
+          if grep -Eiq 'deployment_paused|currently unavailable|rate limit|something went wrong|error' "$tmp_file"; then
+            echo "Card service returned an error SVG/message; keeping existing cached card."
+            exit 0
+          fi
+
+          mv "$tmp_file" "$target"
+
+      - name: Commit updated cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update cached maintaining cards
+          file_pattern: assets/bulk-crap-uninstaller-card.svg
