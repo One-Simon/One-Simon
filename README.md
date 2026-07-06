@@ -87,7 +87,7 @@ I started building Software to solve Problems - What Solution do YOU need ?
 <br>
 
 <a href="https://github.com/BCUninstaller/Bulk-Crap-Uninstaller">
-  <img align="right" hspace="10" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BCUninstaller&repo=Bulk-Crap-Uninstaller&theme=github_dark&show_owner=true" alt="Bulk Crap Uninstaller repository card">
+  <img align="right" hspace="10" width="45%" src="./assets/bulk-crap-uninstaller-card.svg" alt="Bulk Crap Uninstaller repository card">
 </a>
 
 <p>
