@@ -99,6 +99,8 @@ I started building Software to solve Problems - What Solution do YOU need ?
   Helping maintain Bulk Crap Uninstaller.  <br>
   Open Source Windows App | clean up dirty Uninstalls and broken Uninstallers.   <br>
   Finally cleaning up all the junk left over the years.  <br>
+</p>
+
 <br clear="right">
 
 
