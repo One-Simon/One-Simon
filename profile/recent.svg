@@ -20,15 +20,15 @@
   <text x="18" y="30" class="title">Recent Languages</text>
   <text x="502" y="30" text-anchor="end" class="meta">last 8 weeks</text>
   <g>
-    <path d="M 29 54 H 442.8269655605423 L 442.8269655605423 54 V 76 L 442.8269655605423 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#3178c6" />
-    <path d="M 442.8269655605423 54 H 449.4134827802711 Q 456 54 456 60.586517219728854 V 69.41348278027114 Q 456 76 449.4134827802711 76 H 442.8269655605423 L 442.8269655605423 76 V 54 L 442.8269655605423 54 Z" fill="#8b949e" />
+    <path d="M 29 54 H 442.4565076934121 L 442.4565076934121 54 V 76 L 442.4565076934121 76 H 29 Q 18 76 18 65 V 65 Q 18 54 29 54 Z" fill="#3178c6" />
+    <path d="M 442.4565076934121 54 H 449.228253846706 Q 455.99999999999994 54 455.99999999999994 60.77174615329393 V 69.22825384670607 Q 455.99999999999994 76 449.228253846706 76 H 442.4565076934121 L 442.4565076934121 76 V 54 L 442.4565076934121 54 Z" fill="#8b949e" />
   </g>
   <g transform="translate(502 57)">
     <text x="0" y="0" text-anchor="end" class="other-name">Other</text>
-    <text x="0" y="18" text-anchor="end" class="other-value">3.0%</text>
+    <text x="0" y="18" text-anchor="end" class="other-value">3.1%</text>
   </g>
-  <g transform="translate(230.41 98)">
+  <g transform="translate(230.23 98)">
       <text x="0" y="0" text-anchor="middle" class="name">TypeScript</text>
-      <text x="0" y="18" text-anchor="middle" class="value">97.0%</text>
+      <text x="0" y="18" text-anchor="middle" class="value">96.9%</text>
     </g>
 </svg>
